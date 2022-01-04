@@ -45,5 +45,10 @@ body {
 }
 canvas {
   display: block;
+  position: fixed;
+  width: 100vw !important;
+  height: 100vh !important;
+  top: 0;
+  left: 0;
 }
 </style>
